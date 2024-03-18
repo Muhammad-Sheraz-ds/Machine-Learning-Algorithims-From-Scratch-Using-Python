@@ -113,4 +113,3 @@ I hope you find this repository valuable in your journey to mastering machine le
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MuhammadSheraza002.machine-learning-algorithms)
 
-Like the data structures and algorithms repository, this machine learning repository has been meticulously crafted to provide you with a comprehensive understanding of machine learning algorithms. Dive in, explore, and elevate your machine learning skills!
