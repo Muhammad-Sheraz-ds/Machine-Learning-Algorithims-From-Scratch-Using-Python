@@ -2,10 +2,11 @@
 
 Welcome to the Machine Learning Algorithms From Scratch Using Python repository! This repository, owned by Muhammad Sheraz, is your comprehensive guide to understanding and implementing machine learning algorithms from scratch in Python. Whether you're a beginner in machine learning or aiming to deepen your understanding, this resource is designed to provide you with in-depth knowledge and practical implementations.
 
-<div height='1000px' style="display: flex; flex-wrap: wrap;">
-  <img src="Images/smlalgo.PNG"  width="58%" style="margin-right: 2%;" />
-  <img src="Images/usmlalgos.PNG" width="38%" />
+<div style="display: flex; flex-direction: row;">
+  <img src="Images/smlalgo.PNG" style="width: 58%; height: auto; margin-right: 2%;" />
+  <img src="Images/usmlalgos.PNG" style="width: 38%; height: auto;" />
 </div>
+
 
 ## Table of Contents
 
